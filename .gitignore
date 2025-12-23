@@ -1,0 +1,15 @@
+
+# Pastas geradas pelo python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.env
+.env.*
+
+# Config pycharm
+.idea/
+
+# Arquivos do sistema
+.DS_Store
